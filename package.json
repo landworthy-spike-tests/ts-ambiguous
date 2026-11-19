@@ -1,0 +1,8 @@
+{
+  "name": "fixture-ts-ambiguous",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "test:unit": "vitest run unit", "test:e2e": "vitest run e2e" },
+  "devDependencies": { "vitest": "2.1.8" },
+  "packageManager": "pnpm@9.15.0"
+}
